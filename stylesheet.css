@@ -1,0 +1,107 @@
+
+    .scheme {
+        text-align: center;  
+    }
+    
+    header {
+        background-color: black;
+        font-family: fantasy;
+        color: goldenrod;
+        text-indent: 25px;
+        text-shadow: 3px 3px green;
+    }
+
+    main {
+        background-color: black;
+        font-family: fantasy;
+        color: goldenrod;
+        text-indent: 25px;
+        text-shadow: 3px 3px green;   
+    }
+
+    body {
+        background-color: black;
+    }
+    a {
+        background-color: black;
+        font-family: fantasy;
+        color: goldenrod;
+        text-indent: 25px;
+        text-shadow: 3px 3px green;
+        
+    }
+    
+    nav {
+        background-color: black;
+        font-family: fantasy;   
+        text-shadow: 3px 3px green;
+    }
+
+    footer {
+        background: black;
+        font-family: fantasy;
+        color: goldenrod;
+        text-indent: 25px;
+        text-shadow: 3px 3px green;
+        font-size: 1.2em;
+    }
+
+    h1 {
+        font-family: fantasy;
+        color: goldenrod;
+        font-size: 3em;
+        text-indent: 25px;
+        text-shadow: 3px 3px green;
+    }
+
+    h2 {
+        font-family: fantasy;
+        color: goldenrod;
+        font-size: 2em;
+        text-indent: 25px;
+        text-shadow: 3px 3px green;
+
+    }
+
+    h3 {
+        font-family: fantasy;
+        color: goldenrod;
+        font-size: 1.2em;
+        text-indent: 25px;
+        text-shadow: 3px 3px green;
+    }
+
+    p {
+        font-family: fantasy;
+        color: goldenrod;
+        font-size: 1.2em;
+        text-indent: 25px;
+        text-align: left;
+        text-shadow: 3px 3px green;
+    }
+
+    input[type=text] {
+        background-color: black;
+        color: black;
+      }
+
+      ul { 
+        text-align:center;
+        list-style-position:outside;
+        margin-left: 50%;
+        transform: translateX(-50%);
+        text-shadow: 3px 3px green;
+     }
+
+     li {
+        text-align: center;
+        text-shadow: 3px 3px green;
+        font-size: 1.2em;
+        
+     }
+
+     blockquote {
+        font-size: 1.2em;
+     }
+
+
