@@ -1,3 +1,10 @@
+    
+    
+    .blocktext {
+        margin-left: auto;
+        margin-right: auto;
+        width: 1100px
+    }
 
     .scheme {
         text-align: center;  
@@ -15,8 +22,7 @@
         background-color: black;
         font-family: fantasy;
         color: goldenrod;
-        text-indent: 25px;
-        text-shadow: 3px 3px green;   
+        text-indent: 25px;  
     }
 
     body {
@@ -33,8 +39,8 @@
     
     nav {
         background-color: black;
-        font-family: fantasy;   
-        text-shadow: 3px 3px green;
+        font-family: fantasy;
+        text-align: center;   
     }
 
     footer {
@@ -42,8 +48,8 @@
         font-family: fantasy;
         color: goldenrod;
         text-indent: 25px;
-        text-shadow: 3px 3px green;
         font-size: 1.2em;
+        text-align: center;
     }
 
     h1 {
@@ -76,8 +82,7 @@
         color: goldenrod;
         font-size: 1.2em;
         text-indent: 25px;
-        text-align: left;
-        text-shadow: 3px 3px green;
+        text-align: center;
     }
 
     input[type=text] {
@@ -86,16 +91,14 @@
       }
 
       ul { 
-        text-align:center;
-        list-style-position:outside;
-        margin-left: 50%;
-        transform: translateX(-50%);
-        text-shadow: 3px 3px green;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50em
+       
      }
 
      li {
-        text-align: center;
-        text-shadow: 3px 3px green;
+        text-align: left;
         font-size: 1.2em;
         
      }
